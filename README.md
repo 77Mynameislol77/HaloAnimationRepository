@@ -3,20 +3,31 @@ Ported Animations
 Bungie
 
 ✅ Halo Combat Evolved
+
 ✅ Halo 2
+
 ✅ Halo 3
+
 ✅ Halo 3 : ODST
+
 ✅ Halo Reach
 
+
 Ensemble Studios
+
 
 ❌ Halo Wars
 
 343 Industries
 
+
 ✅ Halo 4
+
 ❌ Halo 5
+
 ❌ Halo Wars 2
+
+
 
 FYI : All animations have CE's animation version due to the tool used to extract them uses CE's format (TagTool).
 
