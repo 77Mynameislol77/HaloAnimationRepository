@@ -5,13 +5,13 @@
 unnamedActor
 3
 16992281
-fake_node0
+frame door root
 1
 -1
-fake_node1
+frame left door
 -1
 2
-fake_node2
+frame right door
 -1
 -1
 0	0	0

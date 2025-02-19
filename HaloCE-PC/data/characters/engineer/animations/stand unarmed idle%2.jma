@@ -5,79 +5,79 @@
 unnamedActor
 25
 -256390784
-fake_node0
-1
+frame root
+7
 -1
-fake_node1
--1
-2
-fake_node2
--1
+frame ltop uparm
+11
 3
-fake_node3
--1
-4
-fake_node4
+frame neck
+9
+6
+frame rtop uparm
+13
+2
+frame sack01
 -1
 5
-fake_node5
+frame sack02
 -1
-6
-fake_node6
+1
+frame sack03
 -1
-7
-fake_node7
+-1
+frame sack06
 -1
 8
-fake_node8
--1
-9
-fake_node9
--1
-10
-fake_node10
--1
-11
-fake_node11
--1
-12
-fake_node12
--1
-13
-fake_node13
--1
+frame tail01
 14
-fake_node14
+4
+frame head
 -1
-15
-fake_node15
 -1
-16
-fake_node16
--1
-17
-fake_node17
--1
-18
-fake_node18
--1
+frame lbottom uparm
 19
-fake_node19
--1
+16
+frame ltop forarm
 20
-fake_node20
 -1
+frame rbottom uparm
 21
-fake_node21
--1
+10
+frame rtop forarm
 22
-fake_node22
 -1
+frame sack04
+17
+15
+frame sack05
+18
+12
+frame tail02
+-1
+-1
+frame box01
+-1
+-1
+frame box02
+-1
+-1
+frame lbottom forarm
 23
-fake_node23
 -1
+frame ltop hand
+-1
+-1
+frame rbottom foarm
 24
-fake_node24
+-1
+frame rtop hand
+-1
+-1
+frame lbottom hand
+-1
+-1
+frame rbottom hand
 -1
 -1
 0	0	8

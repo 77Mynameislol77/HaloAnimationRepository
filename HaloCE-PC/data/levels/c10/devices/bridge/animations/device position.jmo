@@ -5,19 +5,19 @@
 unnamedActor
 5
 -802003263
-fake_node0
-1
--1
-fake_node1
--1
+frame root
 2
-fake_node2
 -1
+framen_big01
 3
-fake_node3
 -1
+frames_big01
 4
-fake_node4
+1
+framen_small01
+-1
+-1
+frames_small01
 -1
 -1
 0	0	0

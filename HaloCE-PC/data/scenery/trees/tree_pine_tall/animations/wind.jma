@@ -5,16 +5,16 @@
 unnamedActor
 4
 -804395985
-fake_node0
+frame root
 1
 -1
-fake_node1
--1
+frame mid
 2
-fake_node2
 -1
+frame top
 3
-fake_node3
+-1
+frame end
 -1
 -1
 0	0	0
